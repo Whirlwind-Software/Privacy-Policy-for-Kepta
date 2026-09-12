@@ -3,7 +3,7 @@
 **Last updated: 12 September 2026**
 
 Kepta is an offline Android habit tracker. This policy describes what it does
-with your information. It is short because there is very little to describe.
+with your information.
 
 ## The short version
 
